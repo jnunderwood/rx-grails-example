@@ -1,0 +1,9 @@
+---
+micronaut:
+    application:
+        name: server
+
+---
+micronaut:
+    server:
+        port: 3030
